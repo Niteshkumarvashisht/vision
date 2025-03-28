@@ -163,8 +163,12 @@ nav .rgt a:hover {
     object-fit: cover;
 }
 .PAGE5{
-    height: 100vh;
-    width: 100vw;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    height: 100%;
+    width: 100%;
     /* background-color:red; */
     position: relative;
 }
